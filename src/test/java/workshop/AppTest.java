@@ -1,4 +1,4 @@
-package workshop.cleancode;
+package workshop;
 
 
 
